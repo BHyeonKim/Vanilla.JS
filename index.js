@@ -1,1 +1,0 @@
-alert("Im Working, Im Js, Im beautiful, Im worth it");
